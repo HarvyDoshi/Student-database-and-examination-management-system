@@ -1,16 +1,4 @@
 # Student-database-and-examination-management-system
--It's a C language student database management system
--It's is a software developed for eligibility in examinations in schools & colleges.
--It has facilities like login system , accessing the attendance and fees paid of each student  of particular class ; roll-number wise.
--It has additional facilities like adding , deleting student’s data , setting up and reseting new eligibility criteria.
-The concepts included are:
-    i) Arrays
-    ii) Functions
-    iii) Structures
-
-
------------   Code ------------
-
 
 #include <stdio.h>
 #include <stdlib.h>
